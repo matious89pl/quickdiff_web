@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Privacy Policy for QuickDiff
-include_in_header: false
+title: Privacy Policy
+include_in_header: true
 ---
 
 **Privacy Policy for QuickDiff**

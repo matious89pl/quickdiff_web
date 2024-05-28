@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Terms of Service for QuickDiff
+title: Terms of Service
 include_in_header: true
 ---
 
